@@ -1,5 +1,5 @@
 # Invoke-R-from-SAS-and-Ordinal-Logit-Model-Using-BTS-Data-
-Develop a Ordinal Logit Model Using BTS Data and invoke R from SAS to run the same model to compare results of both Tools
+Developed a Ordinal Logit Model Using BTS Data and invoke R from SAS to run the same model to compare results of both Tools
 
 1.	Used appropriate SAS data step syntax to read the March, 2015 BTS file into a SAS dataset named BTS201503.
 Created lag variables for ArrDelay and Cancelled. 
